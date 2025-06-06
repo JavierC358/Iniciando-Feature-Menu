@@ -51,7 +51,7 @@ fun MenuPizzasScreen(
         Text(
             text = "Categoría: $category",
             style = MaterialTheme.typography.headlineSmall,
-            modifier = Modifier.padding(bottom = 8.dp)
+            modifier = Modifier.padding(bottom = 9.dp)
         )
 
         // ✅ Tarjetas de pizzas
